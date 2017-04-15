@@ -13,7 +13,7 @@ whether hospitals should be fined for not providing high quality care to patient
 for some background on this particular topic).
 
 The Hospital Compare web site contains a lot of data and we will only look at a small subset for this
-assignment. The zip file contains one files
+assignment. The zip file contains one file
 
 • outcome-of-care-measures.csv: Contains information about 30-day mortality and readmission rates
 for heart attacks, heart failure, and pneumonia for over 4,000 hospitals.
