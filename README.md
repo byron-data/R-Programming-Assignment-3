@@ -1,5 +1,5 @@
-# R-Programming-Assignment-3
-R Programming by Johns Hopkins University on Coursera Assignment 3
+# R Programming Assignment 3
+R Programming by Johns Hopkins University on Coursera
 
 ## Introduction
 Unzip the data file in a directory that will serve as your working directory. When you
